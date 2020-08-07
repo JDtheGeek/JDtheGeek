@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+  <a  href="https://www.jdthegeek.com">
+    <img src=".images/John Dennehy.svg?raw=true&sanitize=true" Width="400" alt="John Dennehy"/>
+  </a>
+</h1>
+  <p align="center">
+    <a  href="https://www.linkedin.com/johnfdennehy">
+      <img src="./images/linkedin.svg?raw=true&sanitize=true" alt="Linkedin logo" hspace="50" height="42" width="42"/>
+    </a>
+    <a  href="https://www.github.com/jdthegeek">
+      <img src="./images/github.svg?raw=true&sanitize=true" alt="Github logo" hspace="50" height="42" width="42" />
+    </a>
+    <a  href="mailto:hello@jdthegeek.com">
+      <img src="./images/email.svg?raw=true&sanitize=true" alt="Email Icon" hspace="50" height="42" width="42"/>
+    </a>
+  </p>
 
 <!--
 **JDtheGeek/JDtheGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
