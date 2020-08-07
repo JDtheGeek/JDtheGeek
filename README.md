@@ -1,6 +1,6 @@
 <h1 align="center">
   <a  href="https://www.jdthegeek.com">
-    <img src="./images/John Dennehy.svg?sanitize=true" Width="400" alt="John Dennehy"/>
+    <img src="https://github.com/JDtheGeek/JDtheGeek/blob/master/images/John%20Dennehy.svg?sanitize=true" Width="400" alt="John Dennehy"/>
   </a>
 </h1>
   <p align="center">
