@@ -5,13 +5,13 @@
 </h1>
   <p align="center">
     <a  href="https://www.linkedin.com/johnfdennehy">
-      <img src="./images/linkedin.svg?raw=true&sanitize=true" alt="Linkedin logo" hspace="50" height="42" width="42"/>
+      <img src="https://github.com/JDtheGeek/JDtheGeek/blob/master/images/linkedin.svg?raw=true&sanitize=true" alt="Linkedin logo" hspace="50" height="42" width="42"/>
     </a>
     <a  href="https://www.github.com/jdthegeek">
-      <img src="./images/github.svg?raw=true&sanitize=true" alt="Github logo" hspace="50" height="42" width="42" />
+      <img src="https://github.com/JDtheGeek/JDtheGeek/blob/master/images/github.svg?raw=true&sanitize=true" alt="Github logo" hspace="50" height="42" width="42" />
     </a>
     <a  href="mailto:hello@jdthegeek.com">
-      <img src="./images/email.svg?raw=true&sanitize=true" alt="Email Icon" hspace="50" height="42" width="42"/>
+      <img src="https://github.com/JDtheGeek/JDtheGeek/blob/master/images/email.svg?raw=true&sanitize=true" alt="Email Icon" hspace="50" height="42" width="42"/>
     </a>
   </p>
 
