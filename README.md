@@ -4,7 +4,7 @@
   </a>
 </h1>
   <p align="center">
-    <a  href="https://www.linkedin.com/johnfdennehy">
+    <a  href="https://www.linkedin.com/in/johnfdennehy">
       <img src="https://github.com/JDtheGeek/JDtheGeek/blob/master/images/linkedin.svg?raw=true&sanitize=true" alt="Linkedin logo" hspace="50" height="42" width="42"/>
     </a>
     <a  href="https://www.github.com/jdthegeek">
